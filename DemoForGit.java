@@ -1,4 +1,4 @@
-public class DemoForGi {
+public class DemoForGit {
     public static void main(String[] args){
 
     }
